@@ -15,8 +15,7 @@ A web browser (Chrome, Firefox, Edge, etc.)
 
 Installation
 
-Clone the repository:
-
+Clone the repository
 in the bash:
 
 - git clone https://github.com/Felpsz01/project-html-1.git
