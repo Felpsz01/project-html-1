@@ -1,6 +1,8 @@
 
 Project HTML-1
+
 About The Project
+
 This project is a web page built using HTML and CSS for learning purposes at Senai Suíço-Brasileiro. It demonstrates basic web development skills through a simple and clean design.
 
 Built With
